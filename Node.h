@@ -22,7 +22,7 @@ public:
 private:
 	string stock_symbol;
 	double stock_number;
-	Node *left;	    // previous pointer
+	Node *left;	// previous pointer
 	Node *right;	// next pointer
 
 };
