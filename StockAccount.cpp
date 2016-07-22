@@ -2,7 +2,8 @@
 //	StockAccount.cpp
 //
 
-#define _CRT_SECURE_NO_WARNINGS/*#pragma comment( lib, "libmx.lib" )
+#define _CRT_SECURE_NO_WARNINGS
+/*#pragma comment( lib, "libmx.lib" )
 #pragma comment( lib, "libmex.lib" )
 #pragma comment( lib, "libeng.lib" )
 
